@@ -1,6 +1,6 @@
 Hello, My name is Leon Cwiklinski.
 
-I'm a 16 year old student hevily interested in Mechatronics, Robotics and Engineering, especially Aerospace Engineering and Mechanical Engineering.
+I'm an 18 year old student hevily interested in Mechatronics, Robotics and Engineering, especially Aerospace Engineering and Mechanical Engineering.
 
 I'm currently learning C++ programming, advanced modelling in SolidWorks and math for stuff like inverse kinematics, PID's or Kalman Filters.
 
