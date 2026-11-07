@@ -6,4 +6,4 @@ I'm currently learning C++ programming, advanced modelling in SolidWorks and mat
 
 I'm looking to collaborate on literally anything but the closer it is to anything mentioned above the better it is.
 
-You can reach me via my e-mail leoncwk7@gmail.com or discord _leonardo__ (its underscore leonardo underscore underscore), I respond to discord DM's very quickly.
+You can reach me via my e-mail leonart@leonart.cc or discord _leonardo__ (its underscore leonardo underscore underscore), I respond to discord DM's very quickly.
